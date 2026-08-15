@@ -1,4 +1,4 @@
-<link href="./assets/style.css" rel="stylesheet">
+<link href="https://raw.githubusercontent.com/Acessilia-Glasses/.github/refs/heads/main/assets/style.css?token=GHSAT0AAAAAAD6NQQ2WUNXKR3ONBKMVC5ZW2T7Z2WA" rel="stylesheet">
 
 ![hero](./assets/hero.png)
 
