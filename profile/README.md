@@ -1,4 +1,4 @@
-![hero](./assets/hero.png)
+![hero](../assets/hero.png)
 
 # Acessilia Glasses 👓
 
@@ -58,4 +58,4 @@ A solução poderá ser aplicada em escolas, universidades, cursos técnicos, am
 
 </br>
 
-![hero](./assets/footer.png)
+![hero](../assets/footer.png)
