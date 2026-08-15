@@ -1,5 +1,3 @@
-<link href="https://raw.githubusercontent.com/Acessilia-Glasses/.github/refs/heads/main/assets/style.css?token=GHSAT0AAAAAAD6NQQ2WUNXKR3ONBKMVC5ZW2T7Z2WA" rel="stylesheet">
-
 ![hero](./assets/hero.png)
 
 # Acessilia Glasses 👓
@@ -19,29 +17,31 @@ Diferentemente de descritores genéricos de imagens, o Acessília busca explicar
 
 ## Integrantes 💻
 
-<div class="grupo">
-<a href="https://github.com/mfelipesoares">
-<div class="integrante">
-    <h2 class="nome-int">Marcos Felipe</h2>
-    <h3 class="cargo-int">Coordenador/Desenvolvedor</h3>
-    <img class="avatar-int" src="https://avatars.githubusercontent.com/u/63241133?v=4">
-</div>
-</a>
-<a href="https://github.com/jhonata192">
-<div class="integrante">
-    <h2 class="nome-int">Jhonata Fernandes</h2>
-    <h3 class="cargo-int">Pesquisador/Desenvolvedor</h3>
-    <img class="avatar-int" src="https://avatars.githubusercontent.com/u/49104387?v=4">
-</div>
-</a>
-<a href="https://github.com/ingrydpassarin">
-<div class="integrante">
-    <h2 class="nome-int">Ingryd Passarin</h2>
-    <h3 class="cargo-int">Desenvolvedora</h3>
-    <img class="avatar-int" src="https://avatars.githubusercontent.com/u/171743409?v=4">
-</div>
-</a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mfelipesoares">
+        <img src="https://avatars.githubusercontent.com/u/63241133?v=4" width="100px;" alt="Fulano de tal" style="border-radius:50%;"/><br>
+        <b>Marcos Felipe</b>
+      </a><br>
+      <sup>Coordenador/Desenvolvedor</sup>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jhonata192">
+        <img src="https://avatars.githubusercontent.com/u/49104387?v=4" width="100px;" alt="Fulano de tal" style="border-radius:50%"/><br>
+        <b>Jhonata Fernandes</b>
+      </a><br>
+      <sup>Pesquisador/Desenvolvedor</sup>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ingrydpassarin">
+        <img src="https://avatars.githubusercontent.com/u/171743409?v=4" width="100px;" alt="Fulano de tal" style="border-radius:50%"/><br>
+        <b>Ingryd Passarin</b>
+      </a><br>
+      <sup>Desenvolvedora</sup>
+    </td>
+  </tr>
+</table>
 
 ## Público Beneficiado
 
